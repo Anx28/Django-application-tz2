@@ -33,5 +33,5 @@ Expected response:
     }
 }
 ```
-![image](https://github.com/user-attachments/assets/1c78de58-b746-4ce9-9527-22ab35c18918)
+
 
