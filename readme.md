@@ -2,12 +2,17 @@
 
 Structure:
 ```
-.
-├── site.yml
+├── files
+│   └── my_healthcheck
+│       ├── urls.py
+│       └── views.py
 ├── inventory.ini
-└── templates/
-    ├── nginx.conf.j2
-    └── gunicorn.service.j2
+├── readme.md
+├── site.yml
+└── templates
+    ├── gunicorn.service.j2
+    └── nginx.conf.j2
+
 ```
 
 Running the playbook:
